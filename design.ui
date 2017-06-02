@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>780</width>
+    <height>407</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>110</y>
+     <width>202</width>
+     <height>202</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>URW Gothic L</family>
+     <pointsize>35</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> background-color: cyan;
+ border-style: solid;
+ border-width:1px;
+ border-radius:100px;
+ max-width:200	px;
+ max-height:200px;
+ min-width:200px;
+ min-height:200px;</string>
+   </property>
+   <property name="text">
+    <string>Music</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>120</y>
+     <width>202</width>
+     <height>202</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>URW Gothic L</family>
+     <pointsize>35</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> background-color: rgb(255, 102, 55);
+ border-style: solid;
+ border-width:1px;
+ border-radius:100px;
+ max-width:200	px;
+ max-height:200px;
+ min-width:200px;
+ min-height:200px;</string>
+   </property>
+   <property name="text">
+    <string>Video</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>120</y>
+     <width>202</width>
+     <height>202</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>URW Gothic L</family>
+     <pointsize>35</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> background-color: rgb(255, 248, 26);
+ border-style: solid;
+ border-width:1px;
+ border-radius:100px;
+ max-width:200	px;
+ max-height:200px;
+ min-width:200px;
+ min-height:200px;</string>
+   </property>
+   <property name="text">
+    <string>Doc.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
